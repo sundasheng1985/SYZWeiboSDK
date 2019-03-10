@@ -1,0 +1,6 @@
+framework module SYZWeiboSDK {
+  umbrella header "SYZWeiboSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

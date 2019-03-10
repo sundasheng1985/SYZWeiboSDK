@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SYZWeiboSDK_Tests' do
+  pod 'SYZWeiboSDK', :path => '../'
+  
+  
+end
